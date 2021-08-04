@@ -1,3 +1,3 @@
 # blur
 
--eventos js y estilos css
+- eventos js y estilos css
